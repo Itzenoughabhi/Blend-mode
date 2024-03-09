@@ -1,0 +1,19 @@
+BODY{
+    background: #a42e2e;
+   
+}
+h1{
+    color: rgb(196, 22, 22);
+}
+.virat{
+    position: absolute;
+    bottom: 50%;
+   right: 50%;
+    transform: translate(50%, 50%);
+    align-items: center;
+    mix-blend-mode: multiply;
+   
+}
+    h1{
+        position: relative;
+    }
